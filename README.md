@@ -8,7 +8,7 @@ A visual coding environment built using React.js, inspired by MIT Scratch. This 
 
 - **Deployed Project**: https://juspay-challenge-react.netlify.app/
 - **Screen Recording (Google Drive)**: https://drive.google.com/file/d/1VVoE4XzWMwt4NDQ0NtFopY6JJg8rtnwx/view?usp=drive_link
-- **GitHub Repository**: [https://github.com/yourusername/visual-coding-playground](https://github.com/yourusername/visual-coding-playground)
+- **GitHub Repository**: https://github.com/Runtimepirate/Juspay-ReactJS-Challenge
 
 ---
 
@@ -47,4 +47,16 @@ For better understanding, refer to the official Juspay walkthrough video:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/visual-coding-playground.git
+   git clone https://github.com/Runtimepirate/Juspay-ReactJS-Challenge.git
+   
+2. Install dependencies:
+   npm install
+   
+3. Run the development server:
+   npm start
+   Open http://localhost:5173 to view it in the browser.
+
+Developed By :-
+Aditya Katariya
+
+Email:- prasaritation@gmail.com
